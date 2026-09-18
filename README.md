@@ -1,9 +1,9 @@
 # CouponLab Edge 1.4.0
 
-Download the package:
+Use this package for Microsoft Partner Center. Manifest is at the zip root. Icons are included.
 
-**https://github.com/gooddaystack/couponlab-edge/archive/refs/heads/main.zip**
+**Download (ready to upload):**
 
-Or open the repo, click the green **Code** button, then **Download ZIP**.
+https://github.com/gooddaystack/couponlab-edge/raw/main/couponlab-edge-1.4.0.zip
 
-For Microsoft Partner Center, unzip that file, open the inner folder, select `manifest.json`, `popup.html`, `popup.js`, `popup.css`, `data/`, and `icons/`, then zip those so the manifest sits at the zip root.
+Do not upload `couponlab-edge-main.zip` from Code → Download ZIP. That wraps files in a folder and fails validation.
