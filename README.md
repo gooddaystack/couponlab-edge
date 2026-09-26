@@ -1,9 +1,10 @@
-# CouponLab Edge 1.4.0
+# Moved
 
-Use this package for Microsoft Partner Center. Manifest is at the zip root. Icons are included.
+This page is not the extension and it is not a download.
 
-**Download (ready to upload):**
+The public source is [couponlab-extension](https://github.com/gooddaystack/couponlab-extension).
 
-https://github.com/gooddaystack/couponlab-edge/raw/main/couponlab-edge-1.4.0.zip
+Install from a store:
 
-Do not upload `couponlab-edge-main.zip` from Code → Download ZIP. That wraps files in a folder and fails validation.
+- [Chrome Web Store](https://chromewebstore.google.com/detail/couponlab/fmkenekppideckddmkgoagkcmdpmamca)
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/bkjmldepcinpajegmfddalaodacocnig)
